@@ -1,0 +1,44 @@
+/* 1. Class Selector */
+.important-text {
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 2px ;
+    padding: 2px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+  
+/* 2. ID Selector */
+#myButton {
+    width: 10%;
+    height: auto;
+    border: 5px solid #ccc;
+    padding: 10px 15px;
+    margin: 20px 0;
+    background-color: #f50a7b;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+} 
+/* 3. Element Selector */
+img {
+    max-width: 50%;
+    height: 50;
+    border: none;
+}
+  
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #7a7474;
+    line-height: 1.6;
+}
+  
+h1 {
+    color: #ff2282;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
